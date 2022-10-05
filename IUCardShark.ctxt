@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=IUCardShark
+comment1.params=
+comment1.target=IUCardShark()
+comment2.params=
+comment2.target=void\ iniciarJuego()
+comment3.params=jugador
+comment3.target=Carta\ lanzarCartas(Jugador)
+comment4.params=jugador1\ jugador2\ jugador3
+comment4.target=void\ mostrarPuntuaciones(Jugador,\ Jugador,\ Jugador)
+numComments=5

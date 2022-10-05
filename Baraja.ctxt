@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Baraja
+comment1.params=
+comment1.target=Baraja()
+comment2.params=
+comment2.target=void\ inicializa()
+comment3.params=
+comment3.target=void\ barajar()
+comment4.params=n
+comment4.target=java.util.ArrayList\ repartir(int)
+comment5.params=
+comment5.target=java.lang.String\ toString()
+numComments=6

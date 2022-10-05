@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=Carta
+comment1.params=
+comment1.target=Carta()
+comment2.params=
+comment2.target=int\ getValor()
+comment3.params=
+comment3.target=Figura\ getFigura()
+comment4.params=otraCarta
+comment4.target=boolean\ compararFigura(Carta)
+comment5.params=otraCarta
+comment5.target=int\ compareTo(Carta)
+comment6.params=
+comment6.target=Color\ getColor()
+comment7.params=valor\ figura
+comment7.target=Carta(int,\ Figura)
+comment8.params=valor\ figura
+comment8.target=Carta(java.lang.String,\ Figura)
+comment9.params=
+comment9.target=java.lang.String\ toString()
+numComments=10

@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=CardShark
+comment1.params=
+comment1.target=CardShark()
+comment2.params=
+comment2.target=void\ iniciarJuego()
+comment3.params=
+comment3.target=void\ repartirCartas()
+comment4.params=
+comment4.target=void\ iniciarRonda()
+comment5.params=
+comment5.target=void\ mostrarCartasLanzadas()
+comment6.params=
+comment6.target=void\ compararCartas()
+comment7.params=
+comment7.target=void\ comprobarGanador()
+numComments=8
